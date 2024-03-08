@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "watch:scss": "node-sass --w assets/sass/main.scss assets/css/main.css"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
